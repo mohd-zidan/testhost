@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AideaTrader/static/css/main.c9d412ee.css",
+    "main.js": "/AideaTrader/static/js/main.4f4509b9.js",
+    "static/media/1234.png": "/AideaTrader/static/media/1234.60ed696c86bb0bae654b.png",
+    "static/media/123.png": "/AideaTrader/static/media/123.0eb6aa417e300e8431f5.png",
+    "index.html": "/AideaTrader/index.html",
+    "main.c9d412ee.css.map": "/AideaTrader/static/css/main.c9d412ee.css.map",
+    "main.4f4509b9.js.map": "/AideaTrader/static/js/main.4f4509b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d412ee.css",
+    "static/js/main.4f4509b9.js"
+  ]
+}
